@@ -1,4 +1,4 @@
-Estructura de carpetas y archivos del sitio web
+>>> Estructura de carpetas y archivos del sitio web <<<
 
 Carpeta raíz “aseviris” de la que dependen directamente las siguientes carpetas:
 - app: Contiene los archivos necesarios para la ejecución de procesos en el lado
